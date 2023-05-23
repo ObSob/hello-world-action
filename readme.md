@@ -1,3 +1,5 @@
+[![Python application](https://github.com/ObSob/hello-world-action/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/ObSob/hello-world-action/actions/workflows/main.yml)
+
 # Hello world docker action
 
 This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
